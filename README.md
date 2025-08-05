@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Abdallah Maged</h1> 
-<h1>A passionate Front-End Developer from Egypt</h1>
+<h3>A passionate Front-End Developer from Egypt</h3>
 
 
 </div>
