@@ -1,13 +1,7 @@
-div align="center" width="50">
+<div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
-
-<details>
-<summary><strong>🎧 حاليا بكوّد على مزيكا 🎶</strong></summary>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/)  
-</details>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AbdallahMajd&style=flat&color=blue&label=PROFILE+VIEWS)
 
@@ -26,19 +20,5 @@ div align="center" width="50">
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git)
 
-```js
-// Simple intro about me
-
-const Abdallah = {
-  name: "Abdallah Magd",
-  role: "Front-End Developer",
-  tech: ["HTML", "CSS", "JavaScript", "React", "Figma"],
-  learning: ["React.js", "Next.js"],
-  backendKnowledge: ["Python", "C++"],
-  tools: ["Git", "VS Code", "Linux"],
-  passion: ["UI/UX", "Performance Optimization", "Open Source"]
-};
